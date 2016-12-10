@@ -1,2 +1,5 @@
 # hello-world
-This is just a test repository
+
+Hello there!
+
+Michael here, just testing Github out to understand the workflow and processes involved for publishing code.
